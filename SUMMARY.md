@@ -1,4 +1,7 @@
-* [概述](basic/README.md)
+* [开始](basic/README.md)
   * [helloworld](basic/helloworld.md)
+  * [组件设置](basic/component.md)
+  * [生命周期](basic/lifecycle)
   * [初衷](basic/original.md)
+* [模板](template/README.md)
 * [核心插件](core/README.md)

@@ -55,4 +55,4 @@ class example extends Imoto {
 
 试试吧~几乎涵盖了Imoto的现有功能。
 
-糊涂了？看看 [组件设置](basic/component.md) 吧~
+糊涂了？看看 [组件设置](../basic/component.md) 吧~

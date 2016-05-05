@@ -68,8 +68,8 @@ get template() {
   return `...`;
 }
 
-详细的书写方式会在 [下一章](template/README.md) 给出。
+详细的书写方式会在 [下一章](../template/README.md) 给出。
 
 #### 生命周期函数
 
-会在 [下一节](basic/lifecycle.md) 给出
+会在 [下一节](../basic/lifecycle.md) 给出
